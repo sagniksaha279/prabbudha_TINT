@@ -36,7 +36,7 @@ A complete, responsive full-stack web application for managing a tech festival w
 ## Project Structure
 
 ```
-Rumpi/
+Prabuddha/
 ├── backend/
 │   ├── server.js              # Main server file
 │   ├── database.js            # Database connection
